@@ -1,4 +1,9 @@
 # IFD
 
-📤 current task: https://github.com/BusraAylin/IFD/blob/main/task0_swot.md
+<h2 id="task-00">Task 00</h2>
 
+<p><a href="https://github.com/BusraAylin/IFD/blob/main/task0_swot.md" target="_blank">SWOT-Analyse</a></p>
+
+<h2 id="task-001">Task 01</h2>
+
+<p><a href="https://github.com/BusraAylin/IFD/blob/main/Wallet%20Project.pdf" target="_blank">The Wallet Project</a></p>
