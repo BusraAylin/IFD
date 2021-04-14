@@ -10,4 +10,4 @@
 
 <h2 id="task-001">Task 03</h2>
 
-<p><a href="https://github.com/BusraAylin/IFD/blob/main/nteraktive%20Datenvisualisierung_Konzept%26Moodboard.pdf" target="_blank">Interaktive Datenvisualisierung_Konzept&Moodboard</a></p>
+<p><a href="https://github.com/BusraAylin/IFD/blob/main/nteraktive%20Datenvisualisierung_Konzept%26Moodboard.pdf" target="_blank">Interaktive Datenvisualisierung Konzept&Moodboard</a></p>
