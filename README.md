@@ -24,4 +24,4 @@
 
 <h2 id="task-007">Task 07</h2>
 
-<p><a href="https://github.com/BusraAylin/IFD/blob/main/%2307%20Test%20and%20Evaluate.pdf" target="_blank">High-Fid Prototype</a></p>
+<p><a href="https://github.com/BusraAylin/IFD/blob/main/%2307%20Test%20and%20Evaluate.pdf" target="_blank">Test and Evaluate</a></p>
