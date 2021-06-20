@@ -34,7 +34,7 @@
 <h2 id="task-008">Task 10</h2>
 
 <p><a href="https://app.fabble.io/prototype/8fb440" target="_blank">VUI Konzept</a></p>
-<p><a href="https://github.com/BusraAylin/IFD/blob/main/VUI_Konzept.pdf" target="_blank">VUI Konzept</a></p>
+<p><a href="https://github.com/BusraAylin/IFD/blob/main/VUI_Konzept.pdf" target="_blank">VUI Screenshot</a></p>
 
 <h2 id="task-008">Task 10</h2>
 
